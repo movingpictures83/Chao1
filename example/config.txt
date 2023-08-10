@@ -1,0 +1,2 @@
+Prefix plugins/Chao1/example
+Plugin Chao1 inputfile parameters.txt outputfile chao1
